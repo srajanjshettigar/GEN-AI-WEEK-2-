@@ -1,0 +1,14 @@
+# Local credentials and Python environments
+**/.env
+**/.venv/
+**/__pycache__/
+
+# Local RAG data and generated indexes
+**/chroma_db/
+**/uploaded_pdfs/
+**/.streamlit/secrets.toml
+
+# Notebook and editor files
+**/.ipynb_checkpoints/
+.vscode/
+.idea/

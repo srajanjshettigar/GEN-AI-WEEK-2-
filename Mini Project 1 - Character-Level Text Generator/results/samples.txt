@@ -1,0 +1,35 @@
+Ten generated samples (after training):
+01. nkjlesecdlul
+02. uu
+03. kiyosajnfbikvvbr
+04. tsv
+05. anoanveayesnezya
+06. n
+07. jpz
+08. aa
+09. sudhha
+10. ptylayviklgtprin
+
+Before-training uniform baseline (comparison):
+01. o
+02. [empty]
+03. imude
+04. fkaha
+05. vinuelny
+06. hjjhli
+07. mcrgydsczuboeluc
+08. aibslaarcrolunmi
+09. kfoekzbgpbctzgdz
+10. elctemyizrmonhzi
+
+Ten trained samples continued from starter 'a':
+01. afkykjt
+02. ayhejgf
+03. avrkgm
+04. a
+05. avir
+06. am
+07. armrmmmesnhan
+08. abugninhucshrbbok
+09. aiyi
+10. akgmhekcvgzkrzmuk

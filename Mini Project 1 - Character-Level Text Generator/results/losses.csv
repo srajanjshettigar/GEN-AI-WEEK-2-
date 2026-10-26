@@ -1,0 +1,5 @@
+stage,split,mean_nll_nats_per_character
+untrained_uniform,train,3.178054
+untrained_uniform,validation,3.178054
+trained_smoothed_bigram,train,2.298207
+trained_smoothed_bigram,validation,2.509253

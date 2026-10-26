@@ -1,0 +1,18 @@
+{
+  "metric": "mean negative log-likelihood (nats per next character)",
+  "seed": 42,
+  "examples_total": 67,
+  "examples_train": 53,
+  "examples_validation": 14,
+  "train_pairs": 309,
+  "validation_pairs": 80,
+  "untrained_uniform": {
+    "train": 3.1780538303479458,
+    "validation": 3.1780538303479458
+  },
+  "trained_smoothed_bigram": {
+    "train": 2.3089891954722055,
+    "validation": 2.4330711809073575
+  },
+  "split_note": "Validation names were held out before transition counts were fitted."
+}
